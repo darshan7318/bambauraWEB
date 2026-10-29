@@ -1,0 +1,64 @@
+{
+  "hero": {
+    "badge": "Our Story & Purpose",
+    "title": "Bringing a Rare, Traditional Salt to Everyday Premium Kitchens",
+    "paragraphs": [
+      "Bambaura was founded with a singular, honest purpose: to make authentic bamboo-roasted salt accessible to home cooks and chefs who appreciate rare culinary ingredients.",
+      "We believe extraordinary food comes from patient traditional craftsmanship, not industrial shortcuts or exaggerated wellness claims. By roasting pure sea salt inside mountain bamboo tubes across nine separate firings, we deliver a finishing salt that elevates everyday dining."
+    ],
+    "image": "/images/extracted/bambaura_artisans_bamboo_kiln.jpg",
+    "quote": "Our mission is simple: bringing a rare, traditional salt to everyday premium kitchens."
+  },
+  "founderNote": {
+    "headline": "A Note from Our Founder",
+    "story": "When I first tasted nine-times roasted bamboo salt, its delicate smoky aroma and gentle egg-like umami note completely transformed a simple soft-boiled egg. I realized this centuries-old roasting craft deserved a place on modern kitchen tables—honest, lab-tested, and transparently sourced.",
+    "signature": "Founder, Bambaura",
+    "location": "Bangalore & Mumbai, India"
+  },
+  "sourcing": {
+    "badge": "Honest Origin & Sourcing",
+    "title": "Crafted by Artisanal Salt Masters",
+    "description": "Every batch is crafted in small traditional kilns using three honest, natural inputs:",
+    "inputs": [
+      {
+        "name": "Pristine Sea Salt",
+        "detail": "Natural solar-evaporated sea salt, harvested without anti-caking chemicals or industrial bleach."
+      },
+      {
+        "name": "Mountain Bamboo Tubes",
+        "detail": "Mature, thick mountain bamboo stalks, cut into natural firing tubes rich in sap and resin."
+      },
+      {
+        "name": "Yellow Mountain Clay",
+        "detail": "Pure mineral yellow clay hand-molded to seal tube openings and lock in heat and aromatic smoke."
+      },
+      {
+        "name": "Pine Firewood Kilns",
+        "detail": "High-resin pine firewood providing sustained high-heat temperatures over 21 roasting days."
+      }
+    ]
+  },
+  "sustainability": {
+    "badge": "Everyday Kitchen Care",
+    "title": "Thoughtful Packaging for Freshness & Table Presentation",
+    "subtitle": "Designed to keep your salt crisp, aromatic, and ready for everyday kitchen use:",
+    "commitments": [
+      {
+        "title": "Signature Canister",
+        "detail": "Rigid, food-grade paperboard canister with snug lid, designed for elegant kitchen and dining display."
+      },
+      {
+        "title": "Barrier Freshness Pouch",
+        "detail": "High-barrier inner foil pouch with resealable zip-lock to keep humidity out."
+      },
+      {
+        "title": "Everyday Finishing",
+        "detail": "Fine uniform granules and coarse finishing crystals designed for a delicate tabletop pinch."
+      },
+      {
+        "title": "Transparent Batch Testing",
+        "detail": "Every single batch is tested at an ISO/IEC 17025 accredited laboratory with verifiable COA."
+      }
+    ]
+  }
+}

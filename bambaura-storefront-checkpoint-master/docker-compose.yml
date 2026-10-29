@@ -1,0 +1,19 @@
+version: '3.8'
+
+services:
+  bambaura-storefront:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: bambaura-storefront
+    restart: unless-stopped
+    ports:
+      - "80:80"
+    environment:
+      - NODE_ENV=production
+    healthcheck:
+      test: ["CMD-SHELL", "wget -q --spider http://localhost/ || exit 1"]
+      interval: 15s
+      timeout: 5s
+      retries: 3
+      start_period: 5s

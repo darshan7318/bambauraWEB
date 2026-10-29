@@ -1,0 +1,31 @@
+{
+  "header": {
+    "badge": "Partnership Circle",
+    "title": "The Bambaura Ambassador Program",
+    "description": "Partner with the world’s most distinctive 9X bamboo salt. Offer your culinary audience, wellness community, and clients true bio-active mineral purity while earning substantial recurring revenue."
+  },
+  "benefits": [
+    {
+      "icon": "Percent",
+      "title": "15% Base Commission",
+      "description": "Earn 15% on every direct web store order and recurring subscription initiated through your bespoke ambassador link or discount code."
+    },
+    {
+      "icon": "Award",
+      "title": "Private Allocations",
+      "description": "Active partners receive complimentary 250g Chef Canisters and 500g Eco Pouches for recipe content, video reviews, and culinary showcases."
+    },
+    {
+      "icon": "Sparkles",
+      "title": "Amazon Integration",
+      "description": "Leverage Amazon Associates affiliate tags for Amazon US and Amazon UK stores, allowing you to monetize both direct and Prime buyers seamlessly."
+    }
+  ],
+  "calculatorDefaults": {
+    "baseCommissionRate": 0.15,
+    "initialReferrals": 75,
+    "initialOrderUSD": 45,
+    "referralLink": "https://bambaura.com/ambassador?ref=PARTNER"
+  }
+}
+

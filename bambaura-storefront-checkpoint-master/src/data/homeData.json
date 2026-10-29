@@ -1,0 +1,71 @@
+{
+  "hero": {
+    "badge": "From ₹1,450 • Free Delivery Over ₹999",
+    "titlePrefix": "Sea salt,",
+    "titleItalic": "roasted nine times in bamboo.",
+    "productTitle": "Bambaura 9X Bamboo Roasted Salt",
+    "subtitle": "Smoky, savoury and mineral-rich, with a hint of umami.",
+    "metrics": [
+      { "id": "cycles", "label": "Roasting", "value": 9, "suffix": " Cycles", "color": "amber", "subtext": "21 Days in Bamboo Tubes" },
+      { "id": "color", "label": "Appearance", "title": "Brownish", "color": "rose", "subtext": "Natural Mineral Crystals" },
+      { "id": "granulation", "label": "Texture", "title": "Finishing", "color": "emerald", "subtext": "Delicate Tabletop Pinch" },
+      { "id": "purity", "label": "Additives", "value": 0, "suffix": "%", "color": "sky", "subtext": "Lab-Tested Every Batch" }
+    ]
+  },
+  "trustBadges": [
+    { "text": "100% Natural", "icon": "Sparkles" },
+    { "text": "9 Roasting Cycles", "icon": "Flame" },
+    { "text": "Distinctive Brownish Colour", "icon": "Award" },
+    { "text": "No Anti-Caking Additives", "icon": "ShieldCheck" },
+    { "text": "Bamboo Tube Roasted", "icon": "Check" },
+    { "text": "Everyday Kitchen & Table Use", "icon": "ChefHat" }
+  ],
+  "marqueeItems": [
+    { "text": "Nine Roasting Cycles Inside Bamboo Tubes", "icon": "Flame" },
+    { "text": "Distinctive Brownish Mineral Granules", "icon": "Sparkles" },
+    { "text": "Designed for Everyday Kitchen & Table Use", "icon": "ChefHat" },
+    { "text": "Zero Anti-Caking Agents or Chemicals", "icon": "ShieldCheck" },
+    { "text": "Traditionally Roasted Over Natural Pine Wood", "icon": "Award" },
+    { "text": "A Thoughtful Ingredient for Gourmet Pantries", "icon": "Check" }
+  ],
+  "uspCards": [
+    {
+      "icon": "Flame",
+      "title": "Nine Roasting Cycles",
+      "description": "Prepared through nine successive firings inside sealed mountain bamboo tubes, developing exceptional culinary depth."
+    },
+    {
+      "icon": "Award",
+      "title": "Distinctive Brownish Colour",
+      "description": "Recognisable natural brownish amber shade born from repeated high-heat roasting inside natural bamboo tubes."
+    },
+    {
+      "icon": "Sparkles",
+      "title": "Fine Granule Texture",
+      "description": "Delicate uniform granules designed for even seasoning, baking, delicate finishing, and everyday table use."
+    },
+    {
+      "icon": "ChefHat",
+      "title": "Everyday Kitchen Use",
+      "description": "An interesting addition to your pantry and a thoughtful option for those who enjoy discovering distinctive culinary ingredients."
+    }
+  ],
+  "alchemySection": {
+    "badge": "The Roasting Journey",
+    "title": "The Story of Nine Roasting Cycles Inside Bamboo Tubes",
+    "paragraphs": [
+      "Rather than making exaggerated claims about what salt does for the body, Bambaura is defined by the authentic craft of its preparation. Natural salt is packed tightly inside thick mountain bamboo tubes, sealed with yellow mineral clay, and roasted repeatedly over natural pine wood.",
+      "Across nine iterative cycles, the intense heat and aromatic bamboo fibers gradually transform the salt's physical structure, giving it its recognisable brownish colour, rounded savory flavor, and distinctive fine texture."
+    ]
+  },
+  "culinarySection": {
+    "badge": "Everyday Culinary Discovery",
+    "title": "An Interesting Addition to Your Kitchen & Table",
+    "description": "Bambaura 9X brings a unique story and presentation to your cooking. Pinch the fine brownish granules over grilled meats, roasted seasonal greens, eggs, and hearty broths for balanced seasoning without harsh sharpness."
+  },
+  "ambassadorBanner": {
+    "badge": "Culinary Creators & Chefs",
+    "title": "Share the Bambaura Story",
+    "description": "Join our Culinary Partner Circle to share authentic traditional bamboo roasted salt with food enthusiasts and home cooks."
+  }
+}

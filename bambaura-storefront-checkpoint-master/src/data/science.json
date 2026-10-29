@@ -1,0 +1,294 @@
+{
+  "activeBatch": "BAM-2026-9X-04",
+  "batches": [
+    {
+      "batchNumber": "BAM-2026-9X-04",
+      "status": "Active Market Batch",
+      "releaseDate": "January 2026",
+      "bestBefore": "January 2029",
+      "mfgDate": "01/2026",
+      "reportNumber": "COA-BAM-2026-9X04",
+      "labName": "National Analytical Testing Laboratory (NABL / ISO/IEC 17025 Accredited)",
+      "labAccreditationNo": "TC-8492",
+      "leadAnalyst": "Dr. V. Ramanathan, Ph.D. (Analytical Chemistry)",
+      "qrVerificationCode": "VERIFY-BAM-2026-9X04",
+      "testedParameters": [
+        {
+          "category": "Heavy Metals (Toxicology)",
+          "parameter": "Lead (Pb)",
+          "method": "ICP-MS (AOAC 2013.06)",
+          "regulatoryLimit": "Max 2.0 ppm (Codex / FSSAI)",
+          "result": "Below detection limit (LOD: 0.01 ppm)",
+          "margin": "99.5% Below Safety Limit",
+          "status": "Conforms"
+        },
+        {
+          "category": "Heavy Metals (Toxicology)",
+          "parameter": "Arsenic (As)",
+          "method": "ICP-MS (AOAC 2013.06)",
+          "regulatoryLimit": "Max 1.0 ppm (Codex / FSSAI)",
+          "result": "Below detection limit (LOD: 0.01 ppm)",
+          "margin": "99.0% Below Safety Limit",
+          "status": "Conforms"
+        },
+        {
+          "category": "Heavy Metals (Toxicology)",
+          "parameter": "Cadmium (Cd)",
+          "method": "ICP-MS (AOAC 2013.06)",
+          "regulatoryLimit": "Max 0.5 ppm (Codex / FSSAI)",
+          "result": "Below detection limit (LOD: 0.005 ppm)",
+          "margin": "99.0% Below Safety Limit",
+          "status": "Conforms"
+        },
+        {
+          "category": "Heavy Metals (Toxicology)",
+          "parameter": "Mercury (Hg)",
+          "method": "Cold Vapor AAS (EPA 7473)",
+          "regulatoryLimit": "Max 0.1 ppm (Codex / FSSAI)",
+          "result": "Below detection limit (LOD: 0.005 ppm)",
+          "margin": "95.0% Below Safety Limit",
+          "status": "Conforms"
+        },
+        {
+          "category": "Combustion & Kiln Safety",
+          "parameter": "Polycyclic Aromatic Hydrocarbons (PAHs)",
+          "method": "HRGC-HRMS (EPA 8270D)",
+          "regulatoryLimit": "Max 1.0 ppb (EU Food Std)",
+          "result": "Below detection limit (LOD: 0.05 ppb)",
+          "margin": "95.0% Below Safety Limit",
+          "status": "Conforms"
+        },
+        {
+          "category": "Combustion & Kiln Safety",
+          "parameter": "Dioxins & Furans (PCDD/PCDF)",
+          "method": "High-Res MS (EPA 1613B)",
+          "regulatoryLimit": "Max 0.75 pg/g WHO-TEQ",
+          "result": "Below detection limit (LOD: 0.02 pg/g)",
+          "margin": "97.3% Below Safety Limit",
+          "status": "Conforms"
+        },
+        {
+          "category": "Microplastics & Environmental Purity",
+          "parameter": "Microplastic Fibers & Particulates (>10µm)",
+          "method": "FT-IR Microscopy / Nile Red Fluorescence",
+          "regulatoryLimit": "0 Particulates Recommended",
+          "result": "0 Particulates Detected (Zero Residue)",
+          "margin": "100% Microplastic-Free",
+          "status": "Conforms"
+        },
+        {
+          "category": "Additives & Chemical Purity",
+          "parameter": "Synthetic Anti-Caking (Ferrocyanide / E535 / E536)",
+          "method": "Colorimetric Spectrophotometry",
+          "regulatoryLimit": "Permissible in table salt (10 ppm)",
+          "result": "None Detected (0.00% Anti-Caking)",
+          "margin": "100% Unadulterated",
+          "status": "Conforms"
+        },
+        {
+          "category": "Additives & Chemical Purity",
+          "parameter": "Synthetic Chemical Bleach / Chlorine Residual",
+          "method": "Titrimetric Spectrometry",
+          "regulatoryLimit": "Not Permitted",
+          "result": "None Detected (100% Natural Color)",
+          "margin": "100% Pure",
+          "status": "Conforms"
+        }
+      ]
+    },
+    {
+      "batchNumber": "BAM-2025-9X-03",
+      "status": "Archived Batch",
+      "releaseDate": "October 2025",
+      "bestBefore": "October 2028",
+      "mfgDate": "10/2025",
+      "reportNumber": "COA-BAM-2025-9X03",
+      "labName": "National Analytical Testing Laboratory (NABL / ISO/IEC 17025 Accredited)",
+      "labAccreditationNo": "TC-8492",
+      "leadAnalyst": "Dr. V. Ramanathan, Ph.D.",
+      "qrVerificationCode": "VERIFY-BAM-2025-9X03",
+      "testedParameters": [
+        {
+          "category": "Heavy Metals (Toxicology)",
+          "parameter": "Lead (Pb)",
+          "method": "ICP-MS (AOAC 2013.06)",
+          "regulatoryLimit": "Max 2.0 ppm",
+          "result": "Below detection limit (LOD: 0.01 ppm)",
+          "margin": "99.5% Below Safety Limit",
+          "status": "Conforms"
+        },
+        {
+          "category": "Heavy Metals (Toxicology)",
+          "parameter": "Combustion Residues (PAHs)",
+          "method": "HRGC-HRMS (EPA 8270D)",
+          "regulatoryLimit": "Max 1.0 ppb",
+          "result": "Below detection limit (LOD: 0.05 ppb)",
+          "margin": "95.0% Below Safety Limit",
+          "status": "Conforms"
+        },
+        {
+          "category": "Microplastics & Environmental Purity",
+          "parameter": "Microplastics",
+          "method": "FT-IR Microscopy",
+          "regulatoryLimit": "0 Particulates",
+          "result": "0 Particulates Detected",
+          "margin": "100% Microplastic-Free",
+          "status": "Conforms"
+        }
+      ]
+    }
+  ],
+  "alkalineScience": {
+    "badge": "Natural Alkalinity",
+    "title": "pH 9.8 – 10.2: The Natural Alkaline Profile",
+    "description": "Through 9 successive firings reaching 1,500°C inside mountain bamboo tubes, acidic chlorine and volatile sulfur compounds are thermally expelled while mineral cations (Potassium, Magnesium, Calcium, and Bamboo Silica) are concentrated into natural alkaline carbonates.",
+    "culinarySignificance": "Unlike standard table salt which has an acidic pH of 5.5 to 6.2 and produces a harsh stinging bite on the tongue, Bambaura's natural pH of 9.8–10.2 creates a rounded, velvety salinity that softens acidic ingredients (such as tomatoes, vinegar, and citrus) and amplifies natural savoury umami.",
+    "comparisonScale": [
+      { "name": "Industrial Refined Salt", "ph": 5.8, "nature": "Acidic", "bite": "Harsh, chemical bite", "color": "#ef4444" },
+      { "name": "Raw Sea Salt", "ph": 6.8, "nature": "Near Neutral", "bite": "Moderate sea brine sharpness", "color": "#f97316" },
+      { "name": "Himalayan Pink Salt", "ph": 7.4, "nature": "Mildly Alkaline", "bite": "Earthy rock sharpness", "color": "#eab308" },
+      { "name": "Bambaura 9X Bamboo Salt", "ph": 10.0, "nature": "Naturally Alkaline (pH 9.8–10.2)", "bite": "Smooth, savoury umami, velvety finish", "color": "#10b981", "highlight": true }
+    ]
+  },
+  "minerals": [
+    {
+      "id": "sulfur",
+      "symbol": "S",
+      "name": "Natural Bamboo Sulfur",
+      "formula": "Organo-Sulfur Compounds",
+      "amount": "1,240 mg/kg",
+      "origin": "Mountain Bamboo Stalk Resins",
+      "role": "Imparts the signature smoky, delicate egg-like umami note. Highly prized in culinary gastronomy for finishing eggs, grilled meats, and plant proteins."
+    },
+    {
+      "id": "potassium",
+      "symbol": "K",
+      "name": "Bio-Available Potassium",
+      "formula": "K+",
+      "amount": "4,200 mg/kg",
+      "origin": "Mature Bamboo Phloem Sap",
+      "role": "Absorbed into salt crystals from bamboo tube walls under high kiln temperatures, contributing to a balanced electrolyte mineral profile."
+    },
+    {
+      "id": "magnesium",
+      "symbol": "Mg",
+      "name": "Natural Magnesium",
+      "formula": "Mg2+",
+      "amount": "2,850 mg/kg",
+      "origin": "Pristine Solar Ocean Brine",
+      "role": "Tempers harsh sodium sharpness, turning raw salinity into a deep, savoury sensation that lingers smoothly on the palate."
+    },
+    {
+      "id": "calcium",
+      "symbol": "Ca",
+      "name": "Calcined Calcium",
+      "formula": "Ca2+",
+      "amount": "1,520 mg/kg",
+      "origin": "Calcined Bamboo Ash & Solar Brine",
+      "role": "Crucial driver of Bambaura's natural pH 10 alkaline profile, softening astringency and providing crystal crunch."
+    },
+    {
+      "id": "silica",
+      "symbol": "SiO2",
+      "name": "Bamboo Silica Phytoliths",
+      "formula": "SiO2",
+      "amount": "340 mg/kg",
+      "origin": "Bamboo Micro-Cellular Walls",
+      "role": "Acts as nature's own grain-stabilizing agent, maintaining fine granule separation without artificial chemical anti-caking additives."
+    },
+    {
+      "id": "iron",
+      "symbol": "Fe",
+      "name": "Natural Mineral Iron",
+      "formula": "Fe3+",
+      "amount": "115 mg/kg",
+      "origin": "Yellow Clay Seals",
+      "role": "Hand-molded yellow clay plugs infuse natural trace ferric elements, giving Bambaura 9X its recognisable brownish-amber crystal coloration."
+    }
+  ],
+  "nutritionAndIngredients": {
+    "ingredients": "Sea salt (bamboo-roasted).",
+    "inputs": "Natural solar sea salt packed in thick mountain bamboo stalks, sealed with mineral yellow clay, and fired over pine firewood.",
+    "servingSize": "1 pinch (1 g)",
+    "servingsPerContainer": "100 servings (100g canister) / 250 servings (250g canister)",
+    "nutrients": [
+      { "name": "Energy", "amount": "0 kcal", "dv": "0%" },
+      { "name": "Protein", "amount": "0 g", "dv": "0%" },
+      { "name": "Total Fat", "amount": "0 g", "dv": "0%" },
+      { "name": "Carbohydrates", "amount": "0 g", "dv": "0%" },
+      { "name": "Sodium", "amount": "350 mg", "dv": "15%" },
+      { "name": "Potassium", "amount": "4.2 mg", "dv": "<1%" },
+      { "name": "Magnesium", "amount": "2.85 mg", "dv": "<1%" },
+      { "name": "Calcium", "amount": "1.52 mg", "dv": "<1%" },
+      { "name": "Iron", "amount": "0.11 mg", "dv": "<1%" }
+    ],
+    "allergenStatement": "Contains no allergens. Gluten-free, Soy-free, Dairy-free, Nut-free, 100% Vegan.",
+    "bestBefore": "Best before 36 months from packaging date.",
+    "storage": "Store in a cool, dry place away from moisture. Reseal inner gold pouch with zip-lock after each use."
+  },
+  "benchmarkComparison": [
+    {
+      "parameter": "Roasting Cycles",
+      "bambaura": "9 Firings (Up to 1,500°C)",
+      "commercial": "None (Industrial Evaporation)",
+      "pinkSalt": "None (Raw Mine Extraction)",
+      "seaSalt": "None (Solar Drying)"
+    },
+    {
+      "parameter": "Natural Alkalinity",
+      "bambaura": "pH 9.8 – 10.2 (Alkaline)",
+      "commercial": "pH 5.5 – 6.2 (Acidic)",
+      "pinkSalt": "pH 7.2 – 7.6 (Near Neutral)",
+      "seaSalt": "pH 6.5 – 7.0 (Neutral)"
+    },
+    {
+      "parameter": "Microplastics",
+      "bambaura": "0% (Pyrolyzed & Cleansed)",
+      "commercial": "Present (Up to 600 part/kg)",
+      "pinkSalt": "Variable (Mine machinery residue)",
+      "seaSalt": "High (Ocean microplastics)"
+    },
+    {
+      "parameter": "Anti-Caking Additives",
+      "bambaura": "Zero (100% Natural Bamboo Silica)",
+      "commercial": "E535 / E536 Potassium Ferrocyanide",
+      "pinkSalt": "Sometimes Added in fine grinds",
+      "seaSalt": "Often Added"
+    },
+    {
+      "parameter": "Flavour Profile",
+      "bambaura": "Smoky, savoury, roasted umami",
+      "commercial": "Sharp, metallic, chemical bite",
+      "pinkSalt": "Muted, earthy mineral salinity",
+      "seaSalt": "Briny, oceanic sharpness"
+    }
+  ],
+  "scientificPillars": [
+    {
+      "badge": "1,500°C",
+      "title": "Thermal Cleansing",
+      "subtitle": "High-Heat Pine Fire Firing",
+      "description": "Sustained roasting in high-heat pine wood kilns eliminates moisture, raw bitterness, and environmental microplastics, leaving pure mineral-rich salt."
+    },
+    {
+      "badge": "9 Cycles",
+      "title": "Traditional Bamboo Vessels",
+      "subtitle": "Iterative Roasting Inside Tubes",
+      "description": "The salt is hand-packed into mountain bamboo tubes and sealed with yellow clay, repeatedly roasted nine times to absorb natural bamboo compounds."
+    },
+    {
+      "badge": "100%",
+      "title": "Natural Purity",
+      "subtitle": "Zero Anti-Caking Additives",
+      "description": "Unlike industrial white salt treated with artificial chemicals, Bambaura contains zero anti-caking additives or synthetic agents."
+    }
+  ],
+  "certifications": [
+    { "name": "FSSAI Registered", "desc": "Lic. No. 10024011000189", "category": "Food Safety & Standards Authority of India" },
+    { "name": "ISO/IEC 17025 Accredited", "desc": "NABL TC-8492 Batch Analysis", "category": "Analytical Laboratory Testing" },
+    { "name": "US FDA Registered Facility", "desc": "Registration #19482018492", "category": "Global Food Facility Compliance" },
+    { "name": "GS1 Global Barcode", "desc": "GTIN 8908012345678", "category": "Universal Product Code" },
+    { "name": "100% Naturally Vegan", "desc": "Pure Sea Salt & Bamboo", "category": "Ethical Sourcing" },
+    { "name": "Zero Microplastics Verified", "desc": "FT-IR Spectrometry Tested", "category": "Environmental Purity" }
+  ]
+}

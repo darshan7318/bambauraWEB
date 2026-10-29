@@ -1,0 +1,162 @@
+{
+  "tasteProfile": {
+    "headline": "Taste & How to Use",
+    "description": "Smoky, mineral, savoury, with a gentle egg-like note from the high-heat roast.",
+    "usageRule": "A small pinch is enough. Use it as a finishing salt, not for cooking."
+  },
+  "fiveUses": [
+    {
+      "id": "eggs",
+      "title": "On Fried or Boiled Eggs",
+      "category": "Breakfast & Brunch",
+      "grind": "Fine Granules",
+      "image": "/images/extracted/recipe_potatoes.png",
+      "description": "A single morning pinch unlocks deep savoury warmth over runny yolks and soft-boiled farm eggs."
+    },
+    {
+      "id": "meat_paneer",
+      "title": "On Grilled Meat or Paneer",
+      "category": "Finishing Sear",
+      "grind": "Coarse Crystals",
+      "image": "/images/extracted/recipe_chicken.png",
+      "description": "Crisp brownish crystals crackle against sizzling charred meat or hot paneer tikka, creating a smoky umami crust."
+    },
+    {
+      "id": "fruit",
+      "title": "On Fresh Watermelon or Mango",
+      "category": "Sweet & Savoury Contrast",
+      "grind": "Fine Granules",
+      "image": "/images/extracted/recipe_salad.png",
+      "description": "The mineral smokiness cuts through sweet, chilled tropical fruit slices for an unexpected culinary revelation."
+    },
+    {
+      "id": "chocolate",
+      "title": "On Dark Chocolate or Caramel",
+      "category": "Confectionery Finishing",
+      "grind": "Coarse Crystals",
+      "image": "/images/extracted/recipe_veg.png",
+      "description": "Delicate crystals sprinkled over warm fudge, bitter dark chocolate truffles, or sea salt caramel."
+    },
+    {
+      "id": "cocktail",
+      "title": "On Cocktail Rims",
+      "category": "Mixology & Table Bar",
+      "grind": "Fine Granules & Crystals",
+      "image": "/images/extracted/recipe_chicken.png",
+      "description": "Rim a Mezcalita, Bloody Mary, or spicy Margarita with smoky bamboo salt for an unforgettable aroma with every sip."
+    }
+  ],
+  "recipes": [
+    {
+      "id": "eggs_breakfast",
+      "title": "Soft-Boiled Eggs with Bambaura 9X Pinch",
+      "category": "Breakfast & Eggs",
+      "prepTime": "6 Mins",
+      "pairingGrind": "Fine Granules (100g / 250g)",
+      "image": "/images/extracted/recipe_potatoes.png",
+      "description": "The gentle egg-like sulfur aroma of roasted bamboo salt pairs symbiotically with fresh eggs, creating rich umami without heavy sauces.",
+      "ingredients": [
+        "2 organic pasture-raised eggs",
+        "1 small pinch Bambaura 9X Fine Granules",
+        "Sourdough toast with butter",
+        "Fresh cracked black pepper"
+      ],
+      "instructions": [
+        "Lower eggs into gently boiling water for 6.5 minutes.",
+        "Transfer immediately to an ice bath for 2 minutes to halt cooking.",
+        "Peel carefully and slice in half onto warm buttered sourdough.",
+        "Finish with a delicate pinch of Bambaura 9X directly over the warm yolks."
+      ]
+    },
+    {
+      "id": "meat_paneer_sear",
+      "title": "Charred Ribeye or Tandoori Paneer",
+      "category": "Finishing Crunch",
+      "prepTime": "15 Mins",
+      "pairingGrind": "Coarse Crystals (100g / 250g)",
+      "image": "/images/extracted/recipe_chicken.png",
+      "description": "High-heat searing meets mineral-rich crunch. Sprinkle coarse crystals right before serving so they do not dissolve prematurely.",
+      "ingredients": [
+        "Prime ribeye steak or 250g fresh paneer cubes",
+        "1 tsp Bambaura 9X Coarse Crystals",
+        "1 tbsp clarified butter (ghee) or mustard oil",
+        "Fresh herbs or charred lemon wedge"
+      ],
+      "instructions": [
+        "Sear meat or paneer on a smoking hot cast-iron skillet until deeply caramelized.",
+        "Rest on a warm plate for 5 minutes.",
+        "Scatter Bambaura 9X Coarse Crystals across the charred surface just before serving."
+      ]
+    },
+    {
+      "id": "watermelon_mango",
+      "title": "Chilled Watermelon & Alphonso Mango Crudo",
+      "category": "Fruit Finishing",
+      "prepTime": "5 Mins",
+      "pairingGrind": "Fine Granules",
+      "image": "/images/extracted/recipe_salad.png",
+      "description": "Mineral smokiness enhances natural fructose, transforming summer fruit into an elevated table course.",
+      "ingredients": [
+        "Thick wedges of cold ripe watermelon or sliced Alphonso mango",
+        "1/2 tsp Bambaura 9X Fine Granules",
+        "Fresh mint leaves",
+        "Few drops of fresh lime juice"
+      ],
+      "instructions": [
+        "Arrange cold fruit slices on a wide serving platter.",
+        "Squeeze fresh lime juice lightly over the fruit.",
+        "Garnish with mint leaves and dust with a delicate pinch of Bambaura 9X."
+      ]
+    },
+    {
+      "id": "cocktail_rim",
+      "title": "Smoky Mezcal & Citrus Cocktail Rim",
+      "category": "Mixology Bar",
+      "prepTime": "3 Mins",
+      "pairingGrind": "Fine Granules & Crystals",
+      "image": "/images/extracted/recipe_veg.png",
+      "description": "Elevate your bar experience. The distinctive roasted aroma greets the nose before the first sip touches the tongue.",
+      "ingredients": [
+        "60ml artisanal mezcal or aged tequila",
+        "30ml fresh lime juice & 15ml agave nectar",
+        "1 tbsp Bambaura 9X Granules on a flat saucer",
+        "Lime wedge for rimming"
+      ],
+      "instructions": [
+        "Run a fresh lime wedge around the rim of a chilled rocks glass.",
+        "Gently press the rim into Bambaura 9X salt crystals on the saucer.",
+        "Shake cocktail ingredients with ice, strain into glass, and enjoy."
+      ]
+    }
+  ],
+  "decantingRitual": [
+    {
+      "step": 1,
+      "stage": "STEP 01",
+      "title": "Open The Lid",
+      "description": "Remove the premium paper lid to reveal the sealed food-grade inner pouch.",
+      "image": "/images/extracted/bambaura_packaging_steps.jpg"
+    },
+    {
+      "step": 2,
+      "stage": "STEP 02",
+      "title": "Tear To Open",
+      "description": "Tear along the notch to open the moisture-resistant barrier pouch.",
+      "image": "/images/extracted/bambaura_packaging_steps.jpg"
+    },
+    {
+      "step": 3,
+      "stage": "STEP 03",
+      "title": "Reseal After Use",
+      "description": "Use the zip lock to keep the brownish granules crisp, dry, and fresh.",
+      "image": "/images/extracted/bambaura_packaging_steps.jpg"
+    },
+    {
+      "step": 4,
+      "stage": "STEP 04",
+      "title": "Fine Brownish Granules",
+      "description": "Pinch uniform granules over everyday dishes for a distinctive savoury, smoky finish.",
+      "image": "/images/extracted/bambaura_packaging_steps.jpg"
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+{
+  "US": { "name": "United States", "flag": "🇺🇸", "code": "USD", "symbol": "$", "rate": 1.0, "freeShip": 50, "amazonDomain": "amazon.com" },
+  "IN": { "name": "India", "flag": "🇮🇳", "code": "INR", "symbol": "₹", "rate": 60.4167, "freeShip": 999, "amazonDomain": "amazon.in" },
+  "GB": { "name": "United Kingdom", "flag": "🇬🇧", "code": "GBP", "symbol": "£", "rate": 0.8, "freeShip": 40, "amazonDomain": "amazon.co.uk" }
+}

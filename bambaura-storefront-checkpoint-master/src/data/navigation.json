@@ -1,0 +1,62 @@
+{
+  "announcement": {
+    "highlights": [
+      "Nine Roasting Cycles in Bamboo Tubes",
+      "Distinctive Brownish Salt Granules",
+      "Designed for Everyday Kitchen & Table Use"
+    ],
+    "mobileHighlights": [
+      "9 Roasting Cycles",
+      "Brownish Granules",
+      "Everyday Kitchen Use"
+    ]
+  },
+  "navLinks": [
+    { "label": "Home", "path": "/", "icon": "Compass", "subtext": "Welcome & Overview" },
+    { "label": "Shop", "path": "/product", "badge": "Flagship", "icon": "Sparkles", "subtext": "100g, 250g, 50g, 500g" },
+    { "label": "Why 9X", "path": "/process", "icon": "Flame", "subtext": "The 9 Roasting Cycles" },
+    { "label": "Our Story", "path": "/about", "icon": "BookOpen", "subtext": "Traditional Bamboo Roasting" },
+    { "label": "Recipes", "path": "/recipes", "icon": "ChefHat", "subtext": "Everyday Kitchen & Table Use" },
+    { "label": "Lab Results", "path": "/science", "icon": "ShieldCheck", "subtext": "Quality Verification & COA" },
+    { "label": "Contact", "path": "/contact", "icon": "Phone", "subtext": "Concierge Inquiries" },
+    { "label": "Partner Circle", "path": "/affiliate", "badge": "15%", "icon": "HeartHandshake", "subtext": "Creator Program" }
+  ],
+  "footer": {
+    "brandDescription": "Discover Bambaura 9X Bamboo Roasted Salt, prepared through nine roasting cycles inside bamboo tubes. Recognisable by its distinctive brownish colour and fine granules, this salt brings a unique story and presentation to your kitchen.",
+    "badges": [
+      { "label": "9 Roasting Cycles", "icon": "Flame" },
+      { "label": "Bamboo Tube Roasted", "icon": "Sparkles" },
+      { "label": "Fine Brownish Granules", "icon": "Award" }
+    ],
+    "sections": [
+      {
+        "title": "The Craft & Story",
+        "links": [
+          { "label": "The 9 Roasting Cycles", "path": "/process" },
+          { "label": "Why Bamboo Tubes?", "path": "/about" },
+          { "label": "Brownish Granule Character", "path": "/science" },
+          { "label": "Comparison with Other Salts", "path": "/process" },
+          { "label": "Lab Quality Standards (COA)", "path": "/science" }
+        ]
+      },
+      {
+        "title": "Kitchen & Table",
+        "links": [
+          { "label": "Everyday Cooking Recipes", "path": "/recipes" },
+          { "label": "4-Step Packaging Ritual", "path": "/recipes" },
+          { "label": "Prime Cut Finishing Crystals", "path": "/recipes" },
+          { "label": "Savory Broths & Seasonings", "path": "/recipes" }
+        ]
+      },
+      {
+        "title": "Concierge & Ordering",
+        "links": [
+          { "label": "Shop All Sizes (100g, 250g)", "path": "/product" },
+          { "label": "Concierge Inquiries", "path": "/contact" },
+          { "label": "Creator & Partner Circle", "path": "/affiliate" },
+          { "label": "Admin Nexus Portal", "path": "/admin" }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "roastingCycles": [
+    {
+      "cycle": 1,
+      "title": "First Cycle — Bamboo Packing & Clay Seal",
+      "temp": "800°C",
+      "duration": "12 Hours",
+      "color": "#faf5ee",
+      "colorLabel": "Raw White to Off-White",
+      "description": "Natural sea salt is densely packed into thick mountain bamboo stalks and sealed on both open ends with pure yellow clay."
+    },
+    {
+      "cycle": 2,
+      "title": "Second Cycle — Bamboo Sap Fusion",
+      "temp": "900°C",
+      "duration": "12 Hours",
+      "color": "#f0e6d6",
+      "colorLabel": "Pale Cream",
+      "description": "Fired over natural pine firewood. As the bamboo tube burns, its essential resin and sap infuse the salt."
+    },
+    {
+      "cycle": 3,
+      "title": "Third Cycle — Thermal Consolidation",
+      "temp": "950°C",
+      "duration": "14 Hours",
+      "color": "#e6d7bf",
+      "colorLabel": "Light Greyish Cream",
+      "description": "The cylindrical salt pillar is ground, packed into fresh green bamboo stalks with fresh clay, and re-fired."
+    },
+    {
+      "cycle": 4,
+      "title": "Fourth Cycle — Mineral Migration",
+      "temp": "1,000°C",
+      "duration": "14 Hours",
+      "color": "#d9c3a3",
+      "colorLabel": "Soft Tan",
+      "description": "Sustained heat drives natural clay minerals deep into the salt matrix, evening out the mineral balance."
+    },
+    {
+      "cycle": 5,
+      "title": "Fifth Cycle — The Colour Shift",
+      "temp": "1,050°C",
+      "duration": "14 Hours",
+      "color": "#c4a782",
+      "colorLabel": "Light Brownish Hue",
+      "description": "The crystals soften in harshness, taking on a subtle smoky note and beginning their natural color shift."
+    },
+    {
+      "cycle": 6,
+      "title": "Sixth Cycle — Deep Roasting Integration",
+      "temp": "1,100°C",
+      "duration": "16 Hours",
+      "color": "#b39169",
+      "colorLabel": "Warm Brown",
+      "description": "Bamboo fibers and kiln heat integrate fully with the salt crystals under sustained kiln temperatures."
+    },
+    {
+      "cycle": 7,
+      "title": "Seventh Cycle — High-Heat Cleansing",
+      "temp": "1,200°C",
+      "duration": "16 Hours",
+      "color": "#9e774f",
+      "colorLabel": "Deep Amber Brown",
+      "description": "High temperatures cleanse the salt, eliminating raw moisture and environmental impurities."
+    },
+    {
+      "cycle": 8,
+      "title": "Eighth Cycle — Pre-Transformation",
+      "temp": "1,300°C",
+      "duration": "18 Hours",
+      "color": "#7c5535",
+      "colorLabel": "Glowing Crimson Amber",
+      "description": "The glowing red salt pillars consolidate under pine firewood fire, preparing for molten fusion."
+    },
+    {
+      "cycle": 9,
+      "title": "Ninth Cycle — Molten Bamboo Fusion",
+      "temp": "1,500°C+",
+      "duration": "24 Hours",
+      "color": "#5a2d1d",
+      "colorLabel": "Signature Brownish-Violet Crystals",
+      "highlight": true,
+      "description": "At peak pine fire temperature, the salt melts and fuses into rich brownish-violet crystals with a delicate smoky umami finish."
+    }
+  ],
+  "timelineStages": [
+    {
+      "stage": "01",
+      "days": "Days 1 – 3",
+      "title": "Bamboo Selection & Hand-Packing",
+      "description": "Thick-walled mountain bamboo stalks rich in sap are harvested, cut into natural firing tubes, packed tightly with solar sea salt, and capped with mineral yellow clay."
+    },
+    {
+      "stage": "02",
+      "days": "Days 4 – 8",
+      "title": "Low-Roasting Sap Infusion (Cycles 1 – 3)",
+      "description": "Fired over resin-rich pine firewood between 800°C and 950°C. Essential bamboo resins and sap vaporize directly into the salt core."
+    },
+    {
+      "stage": "03",
+      "days": "Days 9 – 14",
+      "title": "Mineral Migration (Cycles 4 – 6)",
+      "description": "Hardened salt pillars are ground, packed into fresh green bamboo tubes with fresh yellow clay, and fired between 1,000°C and 1,100°C to integrate clay minerals."
+    },
+    {
+      "stage": "04",
+      "days": "Days 15 – 18",
+      "title": "High-Heat Thermal Cleansing (Cycles 7 – 8)",
+      "description": "Fired at 1,200°C–1,300°C. High thermal energy cleanses the salt, expelling raw bitterness and environmental microplastics."
+    },
+    {
+      "stage": "05",
+      "days": "Days 19 – 21",
+      "title": "Peak Molten Fusion (Cycle 9)",
+      "description": "At 1,500°C+, the salt liquifies into molten lava, fusing minerals, bamboo sap, and clay into dense brownish-violet crystal boulders that are finely granulated."
+    }
+  ],
+  "costJustification": {
+    "headline": "Why does 9x bamboo salt cost more?",
+    "tagline": "Each batch takes 21 days and nine firings, and much of the salt is lost in the process.",
+    "points": [
+      "21 days of continuous kiln monitoring by artisanal salt masters",
+      "9 separate fresh bamboo stalks and fresh yellow clay seals per batch",
+      "High yield loss during successive firings at 1,500°C",
+      "100% hand-crafted with zero industrial shortcuts"
+    ]
+  },
+  "comparisonRows": [
+    {
+      "factor": "Roasting Cycles",
+      "regular": "0 Firings (Unroasted)",
+      "oneX": "1 Roasting Cycle",
+      "threeX": "3 Roasting Cycles",
+      "nineX": "9 Roasting Cycles (Bambaura)"
+    },
+    {
+      "factor": "Taste Profile",
+      "regular": "Harsh, stinging salinity",
+      "oneX": "Mildly softened saltiness",
+      "threeX": "Subtle savoury undertones",
+      "nineX": "Smoky, savoury, complex umami finish"
+    },
+    {
+      "factor": "Salt Colour",
+      "regular": "Bleached stark white",
+      "oneX": "Dull off-white / light grey",
+      "threeX": "Light brownish / grey",
+      "nineX": "Distinctive brownish-violet crystals"
+    },
+    {
+      "factor": "Best Use",
+      "regular": "Basic boiling & industrial food",
+      "oneX": "Everyday table cooking",
+      "threeX": "General kitchen seasoning",
+      "nineX": "Finishing salt on eggs, meats, salads & desserts"
+    },
+    {
+      "factor": "Time to Make",
+      "regular": "Instant chemical refining",
+      "oneX": "1 day firing",
+      "threeX": "5–7 days firings",
+      "nineX": "21 days and nine firings"
+    }
+  ]
+}

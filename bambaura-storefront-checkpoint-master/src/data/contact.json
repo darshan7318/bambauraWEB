@@ -1,0 +1,33 @@
+{
+  "header": {
+    "badge": "Customer Care & Gifting Concierge",
+    "title": "Connect With Bambaura Support",
+    "description": "Whether you require assistance with orders, international shipping, culinary usage tips, or custom corporate and wedding gifting boxes, our team is at your service."
+  },
+  "channels": {
+    "whatsapp": {
+      "title": "WhatsApp Support & Gifting",
+      "subtext": "+91 98450 12345 (Mon–Sat 9AM–6PM IST)",
+      "url": "https://wa.me/919845012345?text=Hello%20Bambaura,%20I%20have%20an%20inquiry"
+    },
+    "email": {
+      "title": "Customer Care Email",
+      "address": "care@bambaura.com"
+    },
+    "office": {
+      "title": "Registered Office & Marketer",
+      "locations": "#12/4 Indiranagar, Bangalore 560038, Karnataka, India"
+    }
+  },
+  "wholesaleNotice": {
+    "title": "Corporate & Wedding Gifting Concierge:",
+    "description": "For curated gift boxes for Diwali, weddings, festive celebrations, and corporate client hampers, select 'Corporate & Wedding Gifting' or message our concierge directly on WhatsApp."
+  },
+  "subjectOptions": [
+    "General Order Inquiry",
+    "Corporate & Wedding Gifting",
+    "Shipping & Delivery Assistance",
+    "Wholesale & Restaurant Allocation",
+    "Lab COA & Quality Verification"
+  ]
+}

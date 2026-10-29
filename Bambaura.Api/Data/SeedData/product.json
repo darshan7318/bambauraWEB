@@ -1,0 +1,143 @@
+{
+  "id": "bambaura-9x-salt",
+  "name": "Bambaura 9X Bamboo Roasted Salt – Fine Brownish Salt Granules, Traditionally Roasted Inside Bamboo Tubes",
+  "shortName": "Bambaura 9X Bamboo Roasted Salt",
+  "badge": "Nine Roasting Cycles",
+  "tagline": "PURE SALT | RICHER LIVING — Hand-fired in mountain bamboo tubes over nine roasting cycles.",
+  "shortDescription": "Discover Bambaura 9X Bamboo Roasted Salt, prepared through nine roasting cycles inside bamboo tubes. Recognisable by its distinctive brownish colour and fine granules, this salt brings a unique story and presentation to your kitchen. Suitable for everyday cooking and table use. An interesting addition to your pantry and a thoughtful option for those who enjoy discovering distinctive culinary ingredients.",
+  "rating": 4.96,
+  "reviewsCount": 489,
+  "gramVariants": [
+    {
+      "grams": "100g",
+      "label": "100 g",
+      "name": "100 g — Signature Cylinder Canister",
+      "subtext": "Compact and convenient for everyday kitchen & table use (Most Popular)",
+      "priceUSD": 24,
+      "amazonUSD": 45,
+      "popular": true,
+      "inStock": true,
+      "image": "/images/extracted/bambaura_canister_front_100g.jpg"
+    },
+    {
+      "grams": "250g",
+      "label": "250 g",
+      "name": "250 g — Chef's Reserve Canister",
+      "subtext": "Ideal for regular cooking and family kitchen use",
+      "priceUSD": 42,
+      "amazonUSD": 90,
+      "inStock": true,
+      "popular": false,
+      "image": "/images/extracted/bambaura_packaging_showcase_duo.jpg"
+    },
+    {
+      "grams": "50g",
+      "label": "50 g",
+      "name": "50 g — Discovery Flask",
+      "subtext": "Pocket travel tin for table use & tabletop discovery tasting",
+      "priceUSD": 15,
+      "amazonUSD": 28,
+      "inStock": true,
+      "popular": false,
+      "image": "/images/extracted/bambaura_real_crystals_1.jpg"
+    },
+    {
+      "grams": "500g",
+      "label": "500 g",
+      "name": "500 g — Eco Master Kitchen Refill Pouch",
+      "subtext": "Triple-barrier nitrogen-sealed gold pouch with zip-lock (Best Value)",
+      "priceUSD": 68,
+      "amazonUSD": 145,
+      "inStock": true,
+      "popular": false,
+      "image": "/images/extracted/hi_pouch_gold.png"
+    }
+  ],
+  "grindVariants": [
+    {
+      "id": "fine",
+      "title": "Fine Granules",
+      "subtitle": "Smooth Everyday Seasoning",
+      "description": "Fine brownish granules designed for even seasoning, baking, delicate broths, and everyday table use."
+    },
+    {
+      "id": "coarse",
+      "title": "Coarse Crystals",
+      "subtitle": "Crisp Finishing Crystals",
+      "description": "Distinctive brownish mineral crystal clusters offering a satisfying crunch on prime cuts, roasted vegetables, and salads."
+    }
+  ],
+  "gallery": [
+    { "src": "/images/extracted/bambaura_canister_front_100g.jpg", "title": "Bambaura 9X 100g Signature Canister (Pure Salt | Richer Living)", "type": "canister" },
+    { "src": "/images/extracted/bambaura_packaging_showcase_duo.jpg", "title": "100g & 250g Canisters with Gold Barrier Pouch", "type": "showcase" },
+    { "src": "/images/extracted/hi_spoon_salt.png", "title": "Size Reference: Crystals on Spoon & Hand", "type": "size_reference" },
+    { "src": "/images/extracted/hi_pouch_gold.png", "title": "Inner Triple-Barrier Gold Freshness Pouch", "type": "pouch" },
+    { "src": "/images/extracted/bambaura_real_crystals_1.jpg", "title": "Real 9X Brownish Roasted Salt Crystals", "type": "real_photo" },
+    { "src": "/images/extracted/bambaura_artisans_bamboo_kiln.jpg", "title": "Traditional Bamboo Tube Packing & Kiln Firing", "type": "craft" },
+    { "src": "/images/extracted/bambaura_packaging_steps.jpg", "title": "4-Step Freshness Packaging & Resealable Zip", "type": "ritual" }
+  ],
+  "amazonLinks": {
+    "IN": "https://www.amazon.in/s?k=bambaura+bamboo+salt",
+    "US": "https://www.amazon.com/s?k=bambaura+bamboo+salt",
+    "UK": "https://www.amazon.co.uk/s?k=bambaura+bamboo+salt"
+  },
+  "sensoryProfile": {
+    "headline": "A Distinctive Culinary Salt Shaped by 9 Bamboo Roasting Cycles",
+    "paragraphs": [
+      "Discover Bambaura 9X Bamboo Roasted Salt, prepared through nine roasting cycles inside bamboo tubes. Recognisable by its distinctive brownish colour and fine granules, this salt brings a unique story and presentation to your kitchen.",
+      "Suitable for everyday cooking and table use. An interesting addition to your pantry and a thoughtful option for those who enjoy discovering distinctive culinary ingredients."
+    ],
+    "characteristics": [
+      { "label": "Color Shade", "value": "Distinctive brownish amber to deep mineral crystals" },
+      { "label": "Granule Texture", "value": "Fine uniform granules & crisp finishing crystals" },
+      { "label": "Roasting Method", "value": "Nine cycles inside mountain bamboo tubes over pine wood" },
+      { "label": "Kitchen Use", "value": "Everyday cooking, table seasoning & gourmet presentation" }
+    ]
+  },
+  "keyFeatures": [
+    {
+      "metric": "TRADITIONAL CRAFT",
+      "value": "9 Roasting Cycles",
+      "color": "amber",
+      "description": "Hand-fired through nine successive roasting cycles inside sealed mountain bamboo tubes."
+    },
+    {
+      "metric": "NATURAL COLOR",
+      "value": "Distinctive Brownish Hue",
+      "color": "rose",
+      "description": "Recognisable by its natural brownish amber shade born from high-heat bamboo tube firings."
+    },
+    {
+      "metric": "VERSATILE TEXTURE",
+      "value": "Fine Granules & Crystals",
+      "color": "emerald",
+      "description": "Designed for everyday kitchen use—suitable for savory cooking, grilling, baking, and tabletop discovery."
+    }
+  ],
+  "packagingRitual": [
+    {
+      "step": "Step 01",
+      "title": "Open The Lid",
+      "description": "Remove the premium paper lid to reveal the sealed inner pouch.",
+      "image": "/images/extracted/bambaura_packaging_showcase_duo.jpg"
+    },
+    {
+      "step": "Step 02",
+      "title": "Tear To Open",
+      "description": "Tear along the notch to open the food-grade pouch.",
+      "image": "/images/extracted/bambaura_packaging_showcase_duo.jpg"
+    },
+    {
+      "step": "Step 03",
+      "title": "Reseal After Use",
+      "description": "Use the zip lock to keep the salt fresh and dry.",
+      "image": "/images/extracted/bambaura_packaging_showcase_duo.jpg"
+    },
+    {
+      "step": "Step 04",
+      "title": "Fine Brownish Granules",
+      "description": "Small, uniform particles with a distinctive colour and texture from the 9X bamboo roasting process.",
+      "image": "/images/extracted/bambaura_packaging_showcase_duo.jpg"
+    }
+  ]
+}

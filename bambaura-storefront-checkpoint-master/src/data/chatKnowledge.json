@@ -1,0 +1,16 @@
+{
+  "welcomeMessage": "Namaste! Welcome to Bambaura. How may I assist your culinary salt discovery today?",
+  "quickQuestions": [
+    "What makes the 9 roasting cycles special?",
+    "Why does Bambaura have a brownish colour?",
+    "Which size should I choose: 100g or 250g?",
+    "How do I use it in everyday cooking?"
+  ],
+  "botAnswers": {
+    "What makes the 9 roasting cycles special?": "Natural rock salt is packed into mountain bamboo tubes, sealed with yellow clay, and roasted nine times over pine wood kilns. Under sustained high heat, the salt naturally absorbs bamboo compounds and minerals, creating fine brownish granules with deep savory character.",
+    "Why does Bambaura have a brownish colour?": "The characteristic brownish-amber hue is naturally formed during repetitive firings as high heat, bamboo sap, and mineral clay interact. It is 100% authentic with zero artificial colorants or anti-caking additives.",
+    "Which size should I choose: 100g or 250g?": "Our 100g Signature Canister is our most popular choice for everyday table discovery. The 250g Chef Reserve is crafted for passionate cooks who use it regularly across daily cooking and grilling. We also offer a 50g discovery size and a 500g pantry refill pouch!",
+    "How do I use it in everyday cooking?": "Bambaura 9X is designed for everyday kitchen use. Use fine granules for even seasoning, baking, and rich broths, or coarse crystals as a crisp finishing crunch on seared meats, roasted greens, and heirloom salads."
+  },
+  "defaultReply": "Discover Bambaura 9X Bamboo Roasted Salt, prepared through nine roasting cycles inside bamboo tubes. Recognisable by its distinctive brownish colour and fine granules, it brings a unique story and presentation to your kitchen. You can also connect with our concierge team on WhatsApp!"
+}

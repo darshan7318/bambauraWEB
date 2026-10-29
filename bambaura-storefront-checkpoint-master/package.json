@@ -1,0 +1,27 @@
+{
+  "name": "bambaura-premium-storefront",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "deploy:netlify": "vite build && npx netlify-cli deploy --dir=dist --prod"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "latest",
+    "autoprefixer": "latest",
+    "daisyui": "^4.12.24",
+    "framer-motion": "latest",
+    "gsap": "latest",
+    "jquery": "latest",
+    "lucide-react": "latest",
+    "postcss": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-router-dom": "^7.18.4",
+    "tailwindcss": "^3.4.17",
+    "vite": "latest"
+  }
+}
