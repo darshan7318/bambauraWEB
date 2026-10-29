@@ -1,0 +1,64 @@
+# ==========================================
+# Dependencies
+# ==========================================
+node_modules/
+**/node_modules/
+
+# ==========================================
+# .NET build outputs
+# ==========================================
+[Bb]in/
+[Oo]bj/
+
+# ==========================================
+# Build and distribution outputs
+# ==========================================
+dist/
+build/
+out/
+publish/
+
+# ==========================================
+# Deployment and source archives
+# ==========================================
+hostinger-bambaura-deploy.zip
+bambaura-storefront-source.zip
+
+# Ignore ZIP archives anywhere in the repository if desired
+# *.zip
+
+# ==========================================
+# Environment variables and secrets
+# ==========================================
+.env
+.env.*
+!.env.example
+
+# ==========================================
+# Logs
+# ==========================================
+*.log
+logs/
+
+# ==========================================
+# IDE and editor files
+# ==========================================
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+
+# ==========================================
+# Operating system files
+# ==========================================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ==========================================
+# Temporary files
+# ==========================================
+*.tmp
+*.temp
+*.bak
